@@ -33,7 +33,7 @@ An advanced Retrieval-Augmented Generation (RAG) chatbot implementation using La
 
 1.Clone the repository:
 """bash
-git clone https://github.com/yourusername/advanced-rag-chatbot.git
+git clone https://github.com/NithinAIML/Analysis_Chatbot.git
 cd advanced-rag-chatbot
 """
 
